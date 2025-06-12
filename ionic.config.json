@@ -1,0 +1,7 @@
+{
+  "name": "groovestack",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
