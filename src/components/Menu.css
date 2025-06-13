@@ -111,3 +111,8 @@ ion-note {
 ion-item.selected {
   --color: var(--ion-color-primary);
 } 
+
+ion-header {
+  height: 5rem;
+  padding-top: 1.5rem;
+}
